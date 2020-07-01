@@ -1,2 +1,6 @@
-count = 0 
-while count > 0
+count = 10 
+while count > 0 do
+  puts "#{count}"
+  count -=
+end
+puts ""
