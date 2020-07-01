@@ -3,4 +3,4 @@ while count > 0 do
   puts "#{count}"
   count -=
 end
-puts ""
+puts "Happy New Year!"
